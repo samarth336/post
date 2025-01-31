@@ -1,0 +1,16 @@
+{
+  "name": "instadownload",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "instagram-private-api": "^1.46.1",
+    "puppeteer": "^24.1.1"
+  }
+}
