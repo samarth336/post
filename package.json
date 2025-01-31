@@ -10,6 +10,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
     "instagram-private-api": "^1.46.1",
     "puppeteer": "^24.1.1"
   }
